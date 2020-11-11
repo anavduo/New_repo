@@ -1,4 +1,4 @@
 # New_repo
 Practice lab git and github
-Keep learning
 
+I am editing the README file. Adding some more details about the project description.
